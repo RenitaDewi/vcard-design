@@ -16,3 +16,7 @@ nav a.active {
 nav a.hover {
     color: #475CFD;
 }
+
+nav h5 {
+    font-weight: bold;
+}
