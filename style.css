@@ -28,3 +28,8 @@ nav h5 {
 .main h1 {
     font-weight: 100;
 }
+
+.main h1 span {
+    font-weight: 600;
+    color: #475CFD;
+}
