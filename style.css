@@ -24,3 +24,7 @@ nav h5 {
 .main {
     color: white;
 }
+
+.main h1 {
+    font-weight: 100;
+}
