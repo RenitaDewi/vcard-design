@@ -37,10 +37,11 @@ nav h5 {
 .main p {
     font-size: 20px;
     font-weight: 100;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .main button {
     background-color: #FF4887;
     color: white;
+    margin-top: 20px;
 }
