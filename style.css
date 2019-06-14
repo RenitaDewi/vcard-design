@@ -45,3 +45,10 @@ nav h5 {
     color: white;
     margin-top: 20px;
 }
+
+.bg-img {
+    position: absolute;
+    bottom: -55px;
+    right: 0;
+    width: 50%;
+}
